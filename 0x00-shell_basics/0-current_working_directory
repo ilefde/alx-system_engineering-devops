@@ -1,2 +1,3 @@
-#!/bin/bash 
-ls pwd
+echo #!/bin/bash 
+echo ls pwd
+
